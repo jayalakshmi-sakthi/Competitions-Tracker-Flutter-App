@@ -14,7 +14,7 @@ Backend: Firebase (Authentication, Firestore, Cloud Messaging)
 📥 Installation Steps
 
 Clone the repository:
-git clone https://github.com/your-username/Competitions-Tracker-Flutter-App.git
+git clone https://github.com/jayalakshmi-sakthi/Competitions-Tracker-Flutter-App.git
 
 Navigate to the project folder:
 cd Competitions-Tracker-Flutter-App
