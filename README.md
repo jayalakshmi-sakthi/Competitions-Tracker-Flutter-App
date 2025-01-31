@@ -31,6 +31,8 @@ Open issues or submit pull requests to improve the project.
 
 Demo
 GitHub: https://github.com/jayalakshmi-sakthi/Competitions-Tracker-Flutter-App
+Project Documentation:
+https://github.com/jayalakshmi-sakthi/Competitions-Tracker-Flutter-App/blob/main/project_documentation.pdf
 
 
 
